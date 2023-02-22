@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Test</string>
+    <string name="title_home">Exchanger</string>
+    <string name="title_history">History</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="exchange_result_format">%.2f UAH\n=\n%.2f %s</string>
+    <string name="btn_exchange">Exchange</string>
+    <string name="spinner_hint">Select target currency</string>
+    <string name="title_exception">Error</string>
+    <string name="date_hint">Select target date</string>
+    <string name="hint_input_amount">Amount in UAH</string>
+    <string name="message_no_history">There are no history yet</string>
+</resources>
